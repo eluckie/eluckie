@@ -6,9 +6,11 @@
 * outdoor exploration
 * nature photography
 
-#### I'm going to publish a book for my nature photos
-#### I'm going to build a website to house my photos and creations
-#### I'm going to have the freedom to create from anywhere in the world
+✨ I'm going to publish a book for my nature photos
+
+✨ I'm going to build a website to house my photos and creations
+
+✨ I'm going to have the freedom to create from anywhere in the world
 
 ##
 ### check me out
@@ -29,6 +31,8 @@
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+
 
 #### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
