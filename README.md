@@ -6,13 +6,12 @@
 * outdoor exploration
 * nature photography
 
-### aspirations ✨
-* publish a book for my nature photos
-* build a website to house my photos and creations
-* have the freedom to create from anywhere in the world
+#### I'm going to publish a book for my nature photos
+#### I'm going to build a website to house my photos and creations
+#### I'm going to have the freedom to create from anywhere in the world
 
 ##
-### get to know me
+### check me out
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1033440149557751958)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eluckie)
 [![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/yellowpistols)
@@ -31,5 +30,5 @@
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+#### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
-this page is a continual work-in-progress
