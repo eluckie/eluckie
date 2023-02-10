@@ -6,9 +6,9 @@
 * outdoor exploration
 * nature photography
 
-✨ I'm going to ^publish a book for my nature photos^\
-✨ I'm going to ^build a website to house my photos and creations^\
-✨ I'm going to ^have the freedom to create from anywhere in the world^\
+✨ I'm going to publish a book for my nature photos\
+✨ I'm going to build a website to house my photos and creations\
+✨ I'm going to have the freedom to create from anywhere in the world
 
 ##
 ### check me out
