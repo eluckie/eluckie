@@ -1,9 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=500&lines=aspiring+full-stack+web+developer;currently+studying+at+Epicodus;learning+JavaScript%2C+C%23%2C+.NET%2C+and+React)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=435&lines=aspiring+full-stack+web+developer;currently+studying+at+Epicodus;learning+JavaScript%2C+C%23%2C+and+React)](https://git.io/typing-svg)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/eluckie)
+
 
 <!--
-**eluckie/eluckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
