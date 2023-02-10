@@ -6,6 +6,8 @@
 * outdoor exploration
 * nature photography
 
+
+
 ✨ I'm going to publish a book for my nature photos
 
 ✨ I'm going to build a website to house my photos and creations
@@ -33,6 +35,6 @@
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 
-
+##
 #### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
