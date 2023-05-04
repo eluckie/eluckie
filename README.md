@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=600&lines=visual+merchandiser+turned+jr-developer-in-training;currently+studying+at+Epicodus;learning+JavaScript%2C+C%23%2C+.NET%2C+and+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=600&lines=visual+merchandiser+turned+junior-developer;currently+studying+at+Epicodus;learning+JavaScript%2C+C%23%2C+.NET%2C+and+React)](https://git.io/typing-svg)
 
 ### interests ☀️
 * traveling
@@ -10,12 +10,6 @@
 ✨ I'm going to build a website to house my photos and creations\
 ✨ I'm going to have the freedom to create from anywhere in the world
 
-##
-### check me out
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1033440149557751958)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eluckie)
-[![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/yellowpistols)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eluckie)
 ##
 
 ### skills
@@ -34,3 +28,4 @@
 ##
 #### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+[![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/yellowpistols)
