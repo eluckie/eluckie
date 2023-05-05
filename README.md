@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=600&lines=visual+merchandiser+turned+junior+developer;learning+JavaScript%2C+C%23%2C+.NET%2C+and+React;chasing+the+freedom+to+create+from+anywhere;)](https://git.io/typing-svg)
 
-### who i am outside of coding
-🔅 traveler\
-🔅 sunset chaser\
-🔅 outdoor explorer\
-🔅 nature photographer
-
 ##
 ### technical skills
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,9 +28,14 @@
 ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ##
+### who i am outside of coding
+🔅 traveler\
+🔅 sunset chaser\
+🔅 outdoor explorer\
+🔅 nature photographer
 
-### let's jam
 [![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/yellowpistols)
 
+##
 #### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
