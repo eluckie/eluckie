@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=600&lines=visual+merchandiser+turned+junior+developer;learning+JavaScript%2C+C%23%2C+.NET%2C+and+React;chasing+the+freedom+to+create+from+anywhere;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=59A14D&center=true&vCenter=true&width=600&lines=visual+merchandiser+interested+in+web+development;chasing+the+freedom+to+create+from+anywhere;)](https://git.io/typing-svg)
 
-##
+<!--##
 ### technical skills
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +35,7 @@
 🔅 nature photographer
 
 [![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/yellowpistols)
-
+-->
 ##
 #### this page is a continual work-in-progress
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
